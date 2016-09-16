@@ -23,8 +23,6 @@ public class MainActivity extends ActionBarActivity {
     private String symbol;
     int result = 0;
 
-    public MainActivity() {
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
